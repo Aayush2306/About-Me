@@ -19,6 +19,20 @@ body{
 	word-spacing: 15px;
 }
 
+.ere{
+   text-align: center;
+   font-weight: bold;
+   text-shadow: -1px 0 red, 0 1px black, 1px 0 red, 0 -1px red;  
+
+}
+
+
+.tre{
+    
+    text-align: center;
+
+}
+
 .right{
 	text-align: right;
 	padding: 4px;
