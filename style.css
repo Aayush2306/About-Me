@@ -1,0 +1,26 @@
+body{
+	background-color: #FFFFFF;
+    background-image: linear-gradient(180deg, tomato 20%, #6284FF 50%, #FF0000 100%);
+
+}
+.eo{
+	color: yellow;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.ssc{
+	font-family: 'Akaya Telivigala', cursive;
+	text-shadow: 0 0 1px #FF0000, 0 0 5px #0000FF;
+}
+
+.qw{
+	padding: 4px;
+	margin: 4px;
+	word-spacing: 15px;
+}
+
+.right{
+	text-align: right;
+	padding: 4px;
+	margin: 4px;
+}
