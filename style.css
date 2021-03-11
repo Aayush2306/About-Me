@@ -97,15 +97,6 @@ body{
 	text-align: right;
 }
 
-.cover{
-	 background: url('2.webp') no-repeat;
-     background-size: 100%;
-     position: relative;
-     opacity: 1;
-     filter: alpha(opacity=100);
-     z-index: -0.1;
-}
-
 
 
  .qwe{
